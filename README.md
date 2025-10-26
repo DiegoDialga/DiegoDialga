@@ -90,13 +90,13 @@ I’m Deepanshu Negi, currently a student and tech enthusiast. I’m continuousl
 <br><br>
 
   <!-- Email Assistant -->
-  <a href="https://github.com/karantaragi07/Email-Assistant" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karantaragi07&repo=Email-Assistant&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="Email Assistant Repo" height="180"/>
+  <a href="https://github.com/DiegoDialga/Blocky" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoDialga&repo=Blocky&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="Blocky Repo" height="180"/>
   </a>
 
   <!-- SenseFlow -->
-  <a href="https://github.com/karantaragi07/SenseFlow" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karantaragi07&repo=SenseFlow&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="SenseFlow Repo" height="180"/>
+  <a href="https://github.com/DiegoDialga/OSPortfolio" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoDialga&repo=OSPortfolio&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="OSPortfolio Repo" height="180"/>
   </a>
 
 </div>
@@ -114,13 +114,13 @@ I’m Deepanshu Negi, currently a student and tech enthusiast. I’m continuousl
 <hr>
 <h3 align="center">🤝 Connect with me</h3>
 <div align="center">
-  <a href="https://www.instagram.com/karantaragi/" target="_blank">
+  <a href="https://www.instagram.com/deepanshunegi10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
-  <a href="mailto:ksingh064002@gmail.com">
+  <a href="mailto:deepanshunegi10@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/karantaragi26" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
