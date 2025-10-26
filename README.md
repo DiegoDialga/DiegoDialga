@@ -12,7 +12,7 @@
        alt="Typing SVG" style="display:block; margin:auto;" />
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=karantaragi07" alt="karantaragi07" />
+<img src="https://komarev.com/ghpvc/?username=karantaragi07" alt="DeigoDialga" />
 </div>
 <div align="center">
  
@@ -33,8 +33,8 @@
 <hr>
 <h2 align="center">💡 About Me</h2>
 
-I’m Karan Taragi, currently working on DevOps. I’m continuously learning Advanced Spring Boot, Terraform, AWS Cloud Architecture, and System Design to expand my skillset. I’m looking to collaborate on Spring Boot microservices, DevOps pipelines, or cloud-native projects, and I seek guidance on microservices scalability and CI/CD optimization. You can explore all my work on my GitHub portfolio
-. I love experimenting with new technologies, sharing insights, and discussing ideas about Java, Spring Boot, Microservices, DevOps, and AWS. Feel free to reach me at ksingh064002@gmail.com.
+I’m Deepanshu Negi, currently a student and tech enthusiast. I’m continuously learning frontend, backend, android development to expand my skillset. I’m looking to collaborate on Web and Android projects, and I seek guidance on new tehnologies. You can explore all my work on my GitHub portfolio.
+. I love experimenting with new technologies, sharing insights, and discussing ideas. Feel free to reach me at deepanshunegi10@gmail.com.
 
 
 
