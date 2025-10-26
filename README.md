@@ -8,7 +8,7 @@
   </svg>
 
   <!-- Typing dynamic text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=800&color=0DF781&width=1500&height=90&center=true&lines=Karan+Taragi;Spring+Boot+Developer;Exploring+Microservices+and+System+Design;DevOps+Enthusiast;Building+Scalable+%26+Production-Ready+Systems;Passionate+About+Learning+%26+Improving+Every+Day" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=800&color=0DF781&width=1500&height=90&center=true&lines=Deepanshu+Negi;React.js+Developer;Exploring+Web+,+Android+Development;DevOps+Enthusiast;Building+Scalable+%26+Production-Ready+Systems;Passionate+About+Learning+%26+Improving+Every+Day" 
        alt="Typing SVG" style="display:block; margin:auto;" />
 </div>
 <div align="center">
@@ -22,9 +22,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karantaragi07/karantaragi07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karantaragi07/karantaragi07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karantaragi07/karantaragi07/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoDialga/DiegoDialga/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoDialga/DiegoDialga/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DiegoDialga/DiegoDialga/output/pacman-contribution-graph.svg">
 </picture>
 
 
