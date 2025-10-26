@@ -90,12 +90,12 @@ I’m Deepanshu Negi, currently a student and tech enthusiast. I’m continuousl
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
 
   <!-- Top Languages -->
-  <a href="https://github.com/karantaragi07/karantaragi07" target="_blank">
+  <a href="https://github.com/DiegoDialga/DiegoDialga" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karantaragi07&hide=java,html,tex&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15&langs_count=3" alt="Top Languages" height="180"/>
   </a>
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/karantaragi07/karantaragi07" target="_blank">
+  <a href="https://github.com/DiegoDialga/DiegoDialga" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=karantaragi07&show_icons=true&line_height=27&count_private=true&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="GitHub Stats" height="180"/>
   </a>
 
