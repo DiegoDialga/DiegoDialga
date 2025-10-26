@@ -27,6 +27,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DiegoDialga/DiegoDialga/output/pacman-contribution-graph.svg">
 </picture>
 
+### 🎮 My Pacman Contribution Graph
+
+![Pacman contribution graph (light)](https://raw.githubusercontent.com/DiegoDialga/DiegoDialga/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pacman contribution graph (dark)](https://raw.githubusercontent.com/DiegoDialga/DiegoDialga/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
+
 
 ###
 
